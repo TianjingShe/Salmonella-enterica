@@ -1,0 +1,37 @@
+ID	Number	Position	Gene
+cd-1	25028	North America	FliC
+cd-2	98309	North America	MgtB
+cd-3	98019	North America	MisL
+cd-4	19531	North America	SpvC
+cd-5	33909	North America	SseI
+cd-6	3986	North America	IacP
+cd-7	1752	South America	FliC
+cd-8	4945	South America	MgtB
+cd-9	4805	South America	MisL
+cd-10	1138	South America	SpvC
+cd-11	1505	South America	SseI
+cd-12	317	South America	IacP
+cd-13	1555	Europe	FliC
+cd-14	7241	Europe	MgtB
+cd-15	7193	Europe	MisL
+cd-16	2142	Europe	SpvC
+cd-17	3198	Europe	SseI
+cd-18	436	Europe	IacP
+cd-19	2110	Asia	FliC
+cd-20	7338	Asia	MgtB
+cd-21	7311	Asia	MisL
+cd-22	975	Asia	SpvC
+cd-23	3030	Asia	SseI
+cd-24	640	Asia	IacP
+cd-25	628	Africa	FliC
+cd-26	2541	Africa	MgtB
+cd-27	2541	Africa	MisL
+cd-28	609	Africa	SpvC
+cd-29	719	Africa	SseI
+cd-30	58	Africa	IacP
+cd-31	378	Oceania	FliC
+cd-32	1108	Oceania	MgtB
+cd-33	1107	Oceania	MisL
+cd-34	504	Oceania	SpvC
+cd-35	553	Oceania	SseI
+cd-36	63	Oceania	IacP

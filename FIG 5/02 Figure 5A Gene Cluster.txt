@@ -1,0 +1,41 @@
+ID	Strat Pos	End Pos	Gene Anno	Type	Strand
+orf258	1	408	tail fiber assembly protein	Tail protein	1
+orf259	412	999	tail fiber assembly protein	Tail protein	-1
+orf260	999	1784	tail fiber protein	Tail protein	-1
+orf261	1814	2371	"MAG TPA: gamma delta Resolvase, site specific recombination"	Resolvase	1
+orf262	2474	3646	MAG TPA: sheath tube	Tail protein	1
+orf263	3656	4171	MAG TPA: tail tube protein	Tail protein	1
+orf264	4226	4528	MAG TPA: tail assembly chaperone	Tail protein	1
+orf265	4655	7462	MAG TPA: minor tail protein	Tail protein	1
+orf266	7459	7944	MAG TPA_asm: hypothetical protein	Hypothetical protein	1
+orf267	7941	9041	MAG TPA: tail protein	Tail protein	1
+orf268-9	9608	10633	MAG TPA: integrase	Integrase	-1
+orf270	10637	11269	MAG TPA: CI repressor	CI repressor	-1
+orf271	11386	11625	MAG TPA: Regulatory protein	Regulatory protein	1
+orf272	11661	12170	MAG TPA: regulatory protein	Regulatory protein	1
+orf273	12359	12817	MAG TPA: SMODS and SLOG-associating 2TM effector domain family 4	Others	-1
+orf274	13037	13378	MAG TPA: protein of unknown function (DUF5347)	Hypothetical protein	1
+orf275	13446	13679	MAG TPA: Protein of unknown function (DUF2732)	Hypothetical protein	1
+orf276	13679	13906	MAG TPA: DksA-like zinc finger domain containing protein	Others	1
+orf277	13903	14760	MAG TPA: Cytosine specific methyltransferase	Methyltransferase	1
+orf278	14751	17180	MAG TPA: Replication associated protein	Replication protein	1
+orf279	17333	17521	MAG TPA: hypothetical protein	Hypothetical protein	1
+orf280	17532	17765	MAG TPA: DinI-like family protein	Others	1
+orf282	18824	20521	hypothetical protein STM2723.1.Fels2	Hypothetical protein	1
+orf283	20607	21647	MAG TPA: portal vertex protein	Others	-1
+orf284	21647	23365	terminase large subunit	Terminase	-1
+orf285	23556	24389	MAG: capsid scaffolding protein serine peptidase	Others	1
+orf286	24406	25488	MAG TPA: major capsid protein	Others	1
+orf287	25492	26145	MAG TPA: terminase endonuclease subunit	Terminase endonuclease	1
+orf288	26239	26703	MAG: head completion protein	Head protein	1
+orf289	26703	26906	MAG TPA: tail protein	Tail protein	1
+orf290	26910	27125	MAG TPA: holin	Holin	1
+orf291	27106	27615	MAG TPA: lysozyme	lysozyme	1
+orf294	27992	28420	Rz-like spanin	Others	1
+orf295	28516	28947	MAG TPA: tail completion protein	Tail protein	1
+orf296	28940	29386	MAG: virion morphogenesis family protein	Others	1
+orf297	29455	30033	MAG TPA: baseplate assembly protein	Tail protein	1
+orf298	30030	30389	MAG TPA: baseplate assembly protein	Tail protein	1
+orf299	30376	31284	MAG TPA: baseplate assembly protein	Tail protein	1
+orf300	31277	31882	MAG TPA: tail protein	Tail protein	1
+orf301	31879	33687	tail fiber protein	Tail protein	1

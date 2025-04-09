@@ -1,0 +1,9 @@
+sample	S12::csrA-1	S12::csrA-2	S12(WT)	
+sample-1	1.14	1.42	1.92	
+sample-2	1.39	1.39	1.7	
+sample-3	1.01	1.36	1.64	
+				
+				
+				
+				
+				

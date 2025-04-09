@@ -1,0 +1,13 @@
+Table S5. Proportion of UViGs in each habitat.							
+UViGs carrying S. enterica virulence genes	UViGs in IMG/VR Database	Classification at the 2nd level	UViGs carrying S. enterica virulence genes	UViGs in IMG/VR Database	Classification at the 3rd level	UViGs carrying S. enterica virulence genes	UViGs in IMG/VR Database
+197	"741,109"	Wastewater	15	"145,720"	\	\	\
+		WWTP	6	"70,476"	\	\	\
+1050	"13,024,785"	Aquatic	621	"11,561,487"	Freshwater	199	"4,971,354"
+					Marine	362	"5,793,277"
+					Non-marine Saline and Alkaline	26	"468,119"
+					Thermal springs	13	"68,070"
+					Deep subsurface_aquatic	7	"194,637"
+		Terrestrial	428	"1,462,187"	Soil	175	"1,283,013"
+598	"1,749,691"	Mammals: Human	362	"708,592"	Digestive system of human	358	"645,009"
+		Mammals	98	"534,251"	Digestive system of mammals	98	"524,866"
+		Plants	125	"379,855"	Roots	81	"329,885"
